@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04F0630B1A608D090069ECD5 /* Panda1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F063071A608D080069ECD5 /* Panda1.gif */; };
-		04F0630C1A608D090069ECD5 /* Panda2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F063081A608D080069ECD5 /* Panda2.gif */; };
-		04F0630D1A608D090069ECD5 /* Panda3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F063091A608D080069ECD5 /* Panda3.gif */; };
-		04F063121A6090220069ECD5 /* Panda4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F0630F1A6090220069ECD5 /* Panda4.gif */; };
-		04F063131A6090220069ECD5 /* Panda5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F063101A6090220069ECD5 /* Panda5.gif */; };
-		04F063141A6090220069ECD5 /* Panda6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F063111A6090220069ECD5 /* Panda6.gif */; };
+		6350C07B1CF971500075745D /* Panda1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C0751CF971500075745D /* Panda1.gif */; };
+		6350C07C1CF971500075745D /* Panda2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C0761CF971500075745D /* Panda2.gif */; };
+		6350C07D1CF971500075745D /* Panda3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C0771CF971500075745D /* Panda3.gif */; };
+		6350C07E1CF971500075745D /* Panda4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C0781CF971500075745D /* Panda4.gif */; };
+		6350C07F1CF971500075745D /* Panda5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C0791CF971500075745D /* Panda5.gif */; };
+		6350C0801CF971500075745D /* Panda6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6350C07A1CF971500075745D /* Panda6.gif */; };
 		ED0B26D91A3D26A200B44DFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0B26D81A3D26A200B44DFF /* main.m */; };
 		ED0B26DC1A3D26A200B44DFF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0B26DB1A3D26A200B44DFF /* AppDelegate.m */; };
 		ED0B26DF1A3D26A200B44DFF /* Pandamonium.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ED0B26DD1A3D26A200B44DFF /* Pandamonium.xcdatamodeld */; };
@@ -109,12 +109,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04F063071A608D080069ECD5 /* Panda1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda1.gif; path = ../../Panda/Panda1.gif; sourceTree = "<group>"; };
-		04F063081A608D080069ECD5 /* Panda2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda2.gif; path = ../../Panda/Panda2.gif; sourceTree = "<group>"; };
-		04F063091A608D080069ECD5 /* Panda3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda3.gif; path = ../../Panda/Panda3.gif; sourceTree = "<group>"; };
-		04F0630F1A6090220069ECD5 /* Panda4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda4.gif; path = ../../Panda/Panda4.gif; sourceTree = "<group>"; };
-		04F063101A6090220069ECD5 /* Panda5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda5.gif; path = ../../Panda/Panda5.gif; sourceTree = "<group>"; };
-		04F063111A6090220069ECD5 /* Panda6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda6.gif; path = ../../Panda/Panda6.gif; sourceTree = "<group>"; };
+		6350C0751CF971500075745D /* Panda1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda1.gif; path = ../../../.Trash/Panda1.gif; sourceTree = "<group>"; };
+		6350C0761CF971500075745D /* Panda2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda2.gif; path = ../../../.Trash/Panda2.gif; sourceTree = "<group>"; };
+		6350C0771CF971500075745D /* Panda3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda3.gif; path = ../../../.Trash/Panda3.gif; sourceTree = "<group>"; };
+		6350C0781CF971500075745D /* Panda4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda4.gif; path = ../../../.Trash/Panda4.gif; sourceTree = "<group>"; };
+		6350C0791CF971500075745D /* Panda5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda5.gif; path = ../../../.Trash/Panda5.gif; sourceTree = "<group>"; };
+		6350C07A1CF971500075745D /* Panda6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Panda6.gif; path = ../../../.Trash/Panda6.gif; sourceTree = "<group>"; };
 		ED0B26D31A3D26A200B44DFF /* Pandamonium.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pandamonium.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED0B26D71A3D26A200B44DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED0B26D81A3D26A200B44DFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -381,12 +381,12 @@
 		ED0B28AA1A3E712C00B44DFF /* Pandamation */ = {
 			isa = PBXGroup;
 			children = (
-				04F0630F1A6090220069ECD5 /* Panda4.gif */,
-				04F063101A6090220069ECD5 /* Panda5.gif */,
-				04F063111A6090220069ECD5 /* Panda6.gif */,
-				04F063071A608D080069ECD5 /* Panda1.gif */,
-				04F063081A608D080069ECD5 /* Panda2.gif */,
-				04F063091A608D080069ECD5 /* Panda3.gif */,
+				6350C0751CF971500075745D /* Panda1.gif */,
+				6350C0761CF971500075745D /* Panda2.gif */,
+				6350C0771CF971500075745D /* Panda3.gif */,
+				6350C0781CF971500075745D /* Panda4.gif */,
+				6350C0791CF971500075745D /* Panda5.gif */,
+				6350C07A1CF971500075745D /* Panda6.gif */,
 			);
 			name = Pandamation;
 			sourceTree = "<group>";
@@ -499,6 +499,7 @@
 				ED0B28611A3E2F0B00B44DFF /* Clouds8.gif in Resources */,
 				ED0B288D1A3E2F0B00B44DFF /* Clouds52.gif in Resources */,
 				ED0B28661A3E2F0B00B44DFF /* Clouds13.gif in Resources */,
+				6350C07E1CF971500075745D /* Panda4.gif in Resources */,
 				ED0B287E1A3E2F0B00B44DFF /* Clouds37.gif in Resources */,
 				ED0B286A1A3E2F0B00B44DFF /* Clouds17.gif in Resources */,
 				ED0B28B71A3E79AF00B44DFF /* Obstacle4.jpg in Resources */,
@@ -508,6 +509,7 @@
 				ED0B28701A3E2F0B00B44DFF /* Clouds23.gif in Resources */,
 				ED0B287F1A3E2F0B00B44DFF /* Clouds38.gif in Resources */,
 				ED0B28891A3E2F0B00B44DFF /* Clouds48.gif in Resources */,
+				6350C0801CF971500075745D /* Panda6.gif in Resources */,
 				ED0B28831A3E2F0B00B44DFF /* Clouds42.gif in Resources */,
 				ED0B28B61A3E79AF00B44DFF /* Obstacle3.jpg in Resources */,
 				ED0B285E1A3E2F0B00B44DFF /* Clouds5.gif in Resources */,
@@ -517,13 +519,12 @@
 				ED0B28781A3E2F0B00B44DFF /* Clouds31.gif in Resources */,
 				ED0B28841A3E2F0B00B44DFF /* Clouds43.gif in Resources */,
 				ED0B288E1A3E2F0B00B44DFF /* Clouds53.gif in Resources */,
+				6350C07F1CF971500075745D /* Panda5.gif in Resources */,
 				ED0B286E1A3E2F0B00B44DFF /* Clouds21.gif in Resources */,
-				04F0630C1A608D090069ECD5 /* Panda2.gif in Resources */,
 				ED0B287B1A3E2F0B00B44DFF /* Clouds34.gif in Resources */,
 				ED0B285F1A3E2F0B00B44DFF /* Clouds6.gif in Resources */,
 				ED0B26E51A3D26A200B44DFF /* Main.storyboard in Resources */,
 				ED0B28721A3E2F0B00B44DFF /* Clouds25.gif in Resources */,
-				04F063141A6090220069ECD5 /* Panda6.gif in Resources */,
 				ED0B28761A3E2F0B00B44DFF /* Clouds29.gif in Resources */,
 				ED0B286C1A3E2F0B00B44DFF /* Clouds19.gif in Resources */,
 				ED0B285C1A3E2F0B00B44DFF /* Clouds3.gif in Resources */,
@@ -539,6 +540,7 @@
 				ED0B28811A3E2F0B00B44DFF /* Clouds40.gif in Resources */,
 				ED0B28601A3E2F0B00B44DFF /* Clouds7.gif in Resources */,
 				ED0B286D1A3E2F0B00B44DFF /* Clouds20.gif in Resources */,
+				6350C07D1CF971500075745D /* Panda3.gif in Resources */,
 				ED0B28871A3E2F0B00B44DFF /* Clouds46.gif in Resources */,
 				ED0B28631A3E2F0B00B44DFF /* Clouds10.gif in Resources */,
 				ED0B28C01A3E845900B44DFF /* Obstacle7.jpg in Resources */,
@@ -549,6 +551,7 @@
 				ED0B28851A3E2F0B00B44DFF /* Clouds44.gif in Resources */,
 				ED0B28861A3E2F0B00B44DFF /* Clouds45.gif in Resources */,
 				ED0B26E71A3D26A200B44DFF /* Images.xcassets in Resources */,
+				6350C07C1CF971500075745D /* Panda2.gif in Resources */,
 				ED0B289C1A3E3BA700B44DFF /* Clouds.gif in Resources */,
 				ED0B28C31A3E845900B44DFF /* Obstacle10.jpg in Resources */,
 				ED0B288B1A3E2F0B00B44DFF /* Clouds50.gif in Resources */,
@@ -556,16 +559,13 @@
 				ED0B28801A3E2F0B00B44DFF /* Clouds39.gif in Resources */,
 				ED0B28671A3E2F0B00B44DFF /* Clouds14.gif in Resources */,
 				ED0B27061A3D2D7900B44DFF /* Background.jpg in Resources */,
-				04F0630D1A608D090069ECD5 /* Panda3.gif in Resources */,
 				ED0B286F1A3E2F0B00B44DFF /* Clouds22.gif in Resources */,
 				ED0B28B51A3E79AF00B44DFF /* Obstacle2.jpg in Resources */,
 				ED0B28C61A3E8EBB00B44DFF /* spoke1.gif in Resources */,
-				04F0630B1A608D090069ECD5 /* Panda1.gif in Resources */,
 				ED0B285B1A3E2F0B00B44DFF /* Clouds2.gif in Resources */,
-				04F063131A6090220069ECD5 /* Panda5.gif in Resources */,
 				ED0B28B41A3E79AF00B44DFF /* Obstacle.jpg in Resources */,
+				6350C07B1CF971500075745D /* Panda1.gif in Resources */,
 				ED0B28A01A3E650800B44DFF /* Plane.gif in Resources */,
-				04F063121A6090220069ECD5 /* Panda4.gif in Resources */,
 				ED0B28A41A3E6AC300B44DFF /* SnowLeopard.gif in Resources */,
 				ED0B286B1A3E2F0B00B44DFF /* Clouds18.gif in Resources */,
 				ED0B28791A3E2F0B00B44DFF /* Clouds32.gif in Resources */,
