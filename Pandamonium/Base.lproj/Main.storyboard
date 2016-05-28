@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" placeholderIntrinsicWidth="667" placeholderIntrinsicHeight="375" image="Clouds.gif" translatesAutoresizingMaskIntoConstraints="NO" id="ezA-oj-SZu">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Background.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="FbL-KU-7fM">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Plane.gif" translatesAutoresizingMaskIntoConstraints="NO" id="Zlr-3M-bZZ">
+                                <rect key="frame" x="9" y="8" width="100" height="50"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="paB-wO-cVh">
+                                <rect key="frame" x="3" y="0.0" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="GLp-PF-ebk">
+                                <rect key="frame" x="9" y="8" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle3.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="oQN-Fo-fqn">
+                                <rect key="frame" x="16" y="0.0" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle4.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="9HV-Fq-0WF">
+                                <rect key="frame" x="9" y="0.0" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle5.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="hXw-Cn-nlr">
+                                <rect key="frame" x="9" y="8" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle6.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="aMq-wx-aJc">
+                                <rect key="frame" x="9" y="0.0" width="18" height="150"/>
+                            </imageView>
+                            <imageView hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Obstacle7.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="WLP-JJ-ZOu">
+                                <rect key="frame" x="9" y="0.0" width="18" height="150"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Background2.gif" translatesAutoresizingMaskIntoConstraints="NO" id="lzF-9Y-ktU">
+                                <rect key="frame" x="0.0" y="311" width="667" height="100"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="tank.gif" translatesAutoresizingMaskIntoConstraints="NO" id="Dbr-tM-nGC">
+                                <rect key="frame" x="3" y="212" width="100" height="100"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="H1Z-9b-fS5">
+                                <rect key="frame" x="89" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="igQ-9H-EnF">
+                                <rect key="frame" x="73" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="dOU-Zt-1rU">
+                                <rect key="frame" x="57" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="l70-kB-Ukr">
+                                <rect key="frame" x="41" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="fWW-II-zdL">
+                                <rect key="frame" x="25" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="spoke1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="9vf-5w-HHg">
+                                <rect key="frame" x="9" y="296" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Panda1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="LvT-CQ-igq">
+                                <rect key="frame" x="315" y="258" width="36" height="62"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Bullet.gif" translatesAutoresizingMaskIntoConstraints="NO" id="W9j-pq-P76">
+                                <rect key="frame" x="95" y="44" width="14" height="14"/>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Game Over!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WtN-1a-z00">
+                                <rect key="frame" x="101" y="15" width="465" height="197"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="33"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ouch. You were hit by a Bullet!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SzP-Gj-d0e">
+                                <rect key="frame" x="151" y="165" width="365" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ouch. You ran into an Obstacle!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LTl-0G-K5M">
+                                <rect key="frame" x="152" y="165" width="365" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Bullet2.gif" translatesAutoresizingMaskIntoConstraints="NO" id="qgJ-lo-RUl">
+                                <rect key="frame" x="85" y="258" width="14" height="14"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="Panda1.gif" translatesAutoresizingMaskIntoConstraints="NO" id="cbs-Gb-G12">
+                                <rect key="frame" x="317" y="261" width="33" height="57"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IYt-BJ-8LR">
+                                <rect key="frame" x="568" y="-8" width="120" height="81"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="31"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <keyCommands>
+                        <keyCommand input="" actionName="Mouse"/>
+                    </keyCommands>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <nil key="simulatedTopBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="667" height="375"/>
+                    <connections>
+                        <outlet property="BackGroundaMation" destination="FbL-KU-7fM" id="AtA-H2-Vo0"/>
+                        <outlet property="Bullet" destination="W9j-pq-P76" id="KI7-s1-v9t"/>
+                        <outlet property="Bullet2" destination="qgJ-lo-RUl" id="Fv2-gG-lhq"/>
+                        <outlet property="CloudaMation" destination="ezA-oj-SZu" id="Dd5-J8-MP1"/>
+                        <outlet property="Obstacle" destination="paB-wO-cVh" id="T3l-no-XJp"/>
+                        <outlet property="Obstacle2" destination="GLp-PF-ebk" id="2vw-lb-iI0"/>
+                        <outlet property="Obstacle3" destination="oQN-Fo-fqn" id="bgm-qW-cKg"/>
+                        <outlet property="Obstacle4" destination="9HV-Fq-0WF" id="ncn-OA-cTo"/>
+                        <outlet property="Obstacle5" destination="hXw-Cn-nlr" id="Bq5-Pp-7gg"/>
+                        <outlet property="Obstacle6" destination="aMq-wx-aJc" id="m9r-m2-6Ap"/>
+                        <outlet property="Obstacle7" destination="WLP-JJ-ZOu" id="cvv-7S-wVM"/>
+                        <outlet property="PandaMation" destination="LvT-CQ-igq" id="MyZ-fv-6Ga"/>
+                        <outlet property="PandaMation2" destination="cbs-Gb-G12" id="cOr-8z-74o"/>
+                        <outlet property="PandaMovement" destination="LvT-CQ-igq" id="BHe-HK-SIR"/>
+                        <outlet property="PlaneMovement" destination="Zlr-3M-bZZ" id="Wua-ce-fmJ"/>
+                        <outlet property="Score" destination="IYt-BJ-8LR" id="OEr-5Z-J14"/>
+                        <outlet property="TankaMation" destination="H1Z-9b-fS5" id="slB-L0-ZeY"/>
+                        <outlet property="TankaMation2" destination="igQ-9H-EnF" id="Nuk-UB-ij6"/>
+                        <outlet property="TankaMation3" destination="dOU-Zt-1rU" id="MqZ-Dt-NBd"/>
+                        <outlet property="TankaMation4" destination="l70-kB-Ukr" id="i93-lM-MEt"/>
+                        <outlet property="TankaMation5" destination="fWW-II-zdL" id="lQl-vn-NNv"/>
+                        <outlet property="TankaMation6" destination="9vf-5w-HHg" id="pTS-1n-IOr"/>
+                        <outlet property="bulletMessage" destination="SzP-Gj-d0e" id="8jf-jt-hwk"/>
+                        <outlet property="gameOver" destination="WtN-1a-z00" id="Hyv-uz-YSz"/>
+                        <outlet property="obstacleMessage" destination="LTl-0G-K5M" id="unt-mr-ZqW"/>
+                        <outlet property="testing" destination="IYt-BJ-8LR" id="b0f-xw-aaG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-939.5" y="-429.5"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Background.jpg" width="667" height="375"/>
+        <image name="Background2.gif" width="667" height="100"/>
+        <image name="Bullet.gif" width="14" height="14"/>
+        <image name="Bullet2.gif" width="14" height="14"/>
+        <image name="Clouds.gif" width="667" height="375"/>
+        <image name="Obstacle.jpg" width="18" height="150"/>
+        <image name="Obstacle2.jpg" width="18" height="150"/>
+        <image name="Obstacle3.jpg" width="18" height="150"/>
+        <image name="Obstacle4.jpg" width="18" height="150"/>
+        <image name="Obstacle5.jpg" width="18" height="150"/>
+        <image name="Obstacle6.jpg" width="18" height="150"/>
+        <image name="Obstacle7.jpg" width="18" height="150"/>
+        <image name="Panda1.gif" width="33" height="57"/>
+        <image name="Plane.gif" width="100" height="50"/>
+        <image name="spoke1.gif" width="14" height="14"/>
+        <image name="tank.gif" width="100" height="100"/>
+    </resources>
+    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+</document>
